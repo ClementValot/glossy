@@ -1,13 +1,13 @@
 {
-    "name"        : "glossy",
+    "name"        : "@winstonjs/glossy",
     "version"     : "0.1.7",
     "description" : "Syslog parser and producer",
     "keywords"    : ["syslog", "logging"],
-    "url"         : "http://github.com/squeeks/glossy",
+    "url"         : "http://github.com/winstonjs/glossy",
     "main"        : "./index.js",
     "author"      : "Squeeks <privacymyass@gmail.com>",
     "maintainers" : [
-        { "name" : "Squeeks", "email" : "privacymyass@gmail.com" }
+        { "name" : "DABH", "email" : "DABH@users.noreply.github.com" }
     ],
     "contributors" : [
         { "name": "artifi", "email": "artifipl@gmail.com" },
@@ -17,7 +17,8 @@
         { "name": "Alexander Metzner", "email": "alexander.metzner@thomann.de" },
         { "name": "zaphod1984", "email": "zaphod84@gmx.de" },
         { "name": "Eric Cornelius", "email": "eric.cornelius@mandiant.com" },
-        { "name": "horpto", "email": "_singleton__@hackerdom.ru" }
+        { "name": "horpto", "email": "_singleton__@hackerdom.ru" },
+        { "name": "DABH", "email": "DABH@users.noreply.github.com" }
     ],
     "directories" : {
 	"lib": "./lib",
@@ -28,10 +29,10 @@
     },
     "repository"  : {
         "type": "git",
-        "url": "http://github.com/squeeks/glossy.git"
+        "url": "http://github.com/winstonjs/glossy.git"
     },
     "bugs"        : {
-        "url": "http://github.com/squeeks/glossy/issues"
+        "url": "http://github.com/winstonjs/glossy/issues"
     },
     "licenses"    : [
         {
