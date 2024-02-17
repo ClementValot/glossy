@@ -9,6 +9,7 @@
     "maintainers" : [
         { "name" : "DABH", "email" : "DABH@users.noreply.github.com" }
     ],
+    "files": ["lib"],
     "contributors" : [
         { "name": "artifi", "email": "artifipl@gmail.com" },
         { "name": "Matt Bornski", "email": "matt@bornski.com" },
